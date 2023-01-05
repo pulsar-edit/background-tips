@@ -1,3 +1,5 @@
+# This Repo is Archived under Pulsar-Edit since it is now Bundled within the Core Editor [PR#290](https://github.com/pulsar-edit/pulsar/pull/290)
+
 ## Background Tips package
 
 Displays tips about Pulsar in the background when there are no open editors.
